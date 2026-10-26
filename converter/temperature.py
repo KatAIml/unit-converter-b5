@@ -16,7 +16,7 @@ def from_celsius(value, unit):
     if unit == "C":
         return value
     if unit == "F":
-        return value * 9 / 5 - 32
+        return value * 9 / 5 + 32
     return value + 273.15
 
 
