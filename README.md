@@ -2,7 +2,7 @@
 
 Assignment 2: GitHub Collaboration & Automation, CSC 3324, Group B.
 
-Project status: Development in progress.
+Project status: Temperature feature ready for review..
 
 ## Team
 
