@@ -14,3 +14,7 @@ def test_zero_weight_boundary():
 def test_text_input_raises_type_error():
     with pytest.raises(TypeError):
         convert_weight("ten", "kg", "g")
+
+def test_negative_weight_raises():
+    with pytest.raises(ValueError):
+        convert_weight(-1, "kg", "g")
