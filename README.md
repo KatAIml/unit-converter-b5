@@ -1,9 +1,7 @@
 # Unit Converter (Group B5)
 
 Assignment 2: GitHub Collaboration & Automation, CSC 3324, Group B.
-
-Project status: Length feature ready for review.
-
+Project status: Length, weight and temperature features completed.
 ## Team
 
 | Member | Student ID | GitHub | Feature | Branch |
